@@ -1,1 +1,11 @@
-this is read_me file
+This project analyzes the Online Retail II Dataset (from the UCI Machine Learning Repository / Kaggle). It contains transactional data from a UK-based online retail store between 2009–2011, including invoices, products, quantities, and customer information.
+
+The goal of this project is to:
+
+Clean and preprocess the dataset
+
+Analyze customer purchase patterns
+
+Cluster the customer
+
+Generate business insights
